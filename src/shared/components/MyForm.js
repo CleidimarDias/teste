@@ -18,6 +18,8 @@ const MyForm = () => {
       <TextField id="outlined-basic" label="Cidade:" variant="outlined" />
       <TextField id="outlined-basic" label="Estado:" variant="outlined" />
 
+      <button variant="conteined" >clique aqui</button>
+
       
       </Box>
   )
